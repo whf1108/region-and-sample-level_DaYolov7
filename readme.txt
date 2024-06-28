@@ -1,5 +1,7 @@
 
-Our code can be downloaded from GitHub:  git@github.com:whf1108/region-and-sample-level_DaYolov7.git
+Our code can be downloaded from GitHub:  
+  https://github.com/whf1108/region-and-sample-level_DaYolov7.git
+
 
 
 -----Weight Download
